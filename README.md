@@ -3,7 +3,7 @@ I am a recent Mathematics MSc graduate from the University of Oxford. For a full
 ## Projects
 Here are some of my projects. For some more in depth summaries, please check the projects page.
 
-- [**Using Topological Data Analysis to Interpret Cancer Images.**](projects/tdaproject) Using existing and novel methods from TDA to analyse an agent based model describing the immune response to tumours. We use ML techniques to perform a binary classification task and a regression task of the topological feature vectors and improve upon benchmark accuracies set by more conventional statistics. 
+- [**Using Topological Data Analysis to Interpret Cancer Images.**](docs/Modelling_case_study-final.pdf) Using existing and novel methods from TDA to analyse an agent based model describing the immune response to tumours. We use ML techniques to perform a binary classification task and a regression task of the topological feature vectors and improve upon benchmark accuracies set by more conventional statistics. 
 
 - [**Approximating $$C^{\infty}$$ Nowhere Analytic Functions.**](projects/aofproject) Investigating convergence rates of the polynomial approximation to different classes of continuous functions. We review theorems for continuously differentiable functions and analytic functions. We then investigate $$C^{\infty}$$ nowehere analytic functions. We derive some new theoretical bounds on a subclass of these niche functions and verify our bounds computationally using Matlab.
 
