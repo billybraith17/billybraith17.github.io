@@ -1,4 +1,4 @@
-I am a recent graduate of the MSc in Mathematical Modelling and Scientific Computing at the University of Oxford. My website highlights some of my personal and academic projects.
+I am a recent graduate of the MSc in Mathematical Modelling and Scientific Computing at the University of Oxford. This website highlights some of my personal and academic projects.
 
 ## Projects
 Here are some of my projects. I've provided a brief summary and linked the reports I wrote for each of them.
