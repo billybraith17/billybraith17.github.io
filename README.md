@@ -9,7 +9,9 @@ Here are some of my projects. I've provided a brief summary and linked the repor
 
 - [**Implementing Finite Difference Schemes and GMRES to Solve Poisson's Equation in One, Two and Three Dimensions.**](docs/C___project-final.pdf) We programmed matrix and vector classes in C++. Operators were overloaded to allow for robust, MATLAB-like functionality. We then implemented linear solvers, including Gaussian elimination and GMRES, allowing us to solve PDEs using finite difference schemes.
 
-- [**Modelling RNA Velocity and Gene Regulatory Networks with Neural Networks.**](docs/Modelling_case_study-final.pdf) We use functional analysis and optimisation to recolour grey-scale images given colour information at a small number of pixels. We investigate the impact of different parameters in the colour recovery process. 
+- [**Modelling RNA Velocity and Gene Regulatory Networks with Neural Networks.**](docs/Modelling_case_study-final.pdf) There is a Python package, Dynamo, used by biology researchers to model how cells change from one type into another. This package was prone to giving inaccurte results hence, for a group project, we trained neural networks to replace the mathematical models used by the code and integrated our models with the package. We also used these networks to gain other insights into the biologgy, such as the gene regulatory network.
+
+- Briefly: It was a group project. There was a package used by biology researchers to model how cells change from one type of cell to another. We wanted to replace the models they used with neural networks and integrate them with the package to see if we could improve the accuracy and gain some other insights into some biological processes.
 
 - [**Exploring the Computational Properties of Infinite Width Neural Networks.**](docs/final-draft.pdf) We program a matrix class in C++. Operators have been overloaded to allow for robust, Matlab-like functionality. We implement Gaussian elimination, GMRES, QR and other numerical linear algebra algorithms. We verify our implementations by solving PDEs using the finite element method. 
 
